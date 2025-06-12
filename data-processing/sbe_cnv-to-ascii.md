@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This guide is written to help staff convert their SeaBird CTD and Temperature logger data from the raw data files to a final human-readable ASCII format that can be used for analysis with the software of your choice.
+This guide is written to help staff convert their SeaBird CTD and Temperature logger data from the raw data files to a final human-readable ASCII format that can be used for analysis with the software of your choice. (*For more inforation, or the full manual, check out [Seabird SBE Data Processing Manual](https://www.seabird.com/asset-get.download.jsa?code=251446), in particular p.114 for ASCII Out information*)
 
 > **Before you begin:**  
 > Make sure you have already created a `.CNV` file from the `.HEX` and `.CON`/`.XMLCON` files.
